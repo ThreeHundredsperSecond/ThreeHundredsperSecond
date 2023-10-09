@@ -1,4 +1,4 @@
-# Привет! Меня зовут Влад. Я специалист по Data Science  👋
+# Привет! Меня зовут Влад. Я специалист по Data Science и Анализу Данных 👋
 
 
 ## Ключевые компетенции 🎯
@@ -13,8 +13,9 @@
 - **Библиотеки Python для машинного обучения**: Scikit-learn, Catboost, TensorFlow 
 
 ## Проекты 📚
-- [Название проекта 1](https://github.com/ThreeHundredsperSecond/data-science-portfolio)
-
+- [Прогноз температуры стали во время плавки](https://github.com/ThreeHundredsperSecond/data-science-portfolio/tree/master/steel_temperature_prediction)
+- [Определение наиболее выгодного региона нефтедобычи](https://github.com/ThreeHundredsperSecond/data-science-portfolio/tree/master/oil_region_with_highest_profit)
+- [Обработка фотографий покупателей](https://github.com/ThreeHundredsperSecond/data-science-portfolio/tree/master/oil_region_with_highest_profit)
 
 <!--
 **ThreeHundredsperSecond/ThreeHundredsperSecond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
