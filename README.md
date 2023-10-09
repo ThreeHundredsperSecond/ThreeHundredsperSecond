@@ -19,6 +19,7 @@
 - [Больше проектов здесь](https://github.com/ThreeHundredsperSecond/data-science-portfolio)
 
 ## Сертификаты и дипломы 🎓
+- [Yandex Practicum](https://github.com/ThreeHundredsperSecond/images/blob/main/Vladislav%20Chumachenko_20232DS00675.pdf)
 <!--
 **ThreeHundredsperSecond/ThreeHundredsperSecond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
