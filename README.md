@@ -17,7 +17,7 @@
 - [Прогноз температуры стали во время плавки](https://github.com/ThreeHundredsperSecond/data-science-portfolio/tree/master/steel_temperature_prediction)
 - [Определение наиболее выгодного региона нефтедобычи](https://github.com/ThreeHundredsperSecond/data-science-portfolio/tree/master/oil_region_with_highest_profit)
 - [Обработка фотографий покупателей](https://github.com/ThreeHundredsperSecond/data-science-portfolio/tree/master/oil_region_with_highest_profit)
-- [Больше проектов здесь](https://github.com/ThreeHundredsperSecond/data-science-portfolio)
+- [Больше проектов можно найти здесь](https://github.com/ThreeHundredsperSecond/data-science-portfolio)
 
 ## Сертификаты и дипломы 🎓
 - [Yandex Practicum](https://github.com/ThreeHundredsperSecond/images/blob/main/Vladislav%20Chumachenko_20232DS00675.pdf)
