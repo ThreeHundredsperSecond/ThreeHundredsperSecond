@@ -18,7 +18,7 @@
 - [Обработка фотографий покупателей](https://github.com/ThreeHundredsperSecond/data-science-portfolio/tree/master/oil_region_with_highest_profit)
 - [Больше проектов здесь](https://github.com/ThreeHundredsperSecond/data-science-portfolio)
 
-## Сертификаты и дипломы:
+## Сертификаты и дипломы 🎓
 <!--
 **ThreeHundredsperSecond/ThreeHundredsperSecond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
