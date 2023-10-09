@@ -1,4 +1,4 @@
-# Привет! Меня зовут Влад. Я специалист по Data Science и Анализу Данных 👋
+## *Привет! Меня зовут Влад. Я специалист по Data Science и Анализу Данных* 👋
 
 
 ## Ключевые компетенции 🎯
@@ -20,6 +20,7 @@
 
 ## Сертификаты и дипломы 🎓
 - [Yandex Practicum](https://github.com/ThreeHundredsperSecond/images/blob/main/Vladislav%20Chumachenko_20232DS00675.pdf)
+- [Mathematical Methods in Psychology](https://github.com/ThreeHundredsperSecond/images/blob/main/Coursera%2093H4TPACUZGA.pdf) 
 <!--
 **ThreeHundredsperSecond/ThreeHundredsperSecond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
