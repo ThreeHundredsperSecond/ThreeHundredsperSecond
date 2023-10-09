@@ -12,11 +12,13 @@
 - **Библиотеки Python для визуализации данных**: Matplotlib, Seaborn, Ploty
 - **Библиотеки Python для машинного обучения**: Scikit-learn, Catboost, TensorFlow 
 
-## Проекты 📚
+## Выполненные проекты 📚
 - [Прогноз температуры стали во время плавки](https://github.com/ThreeHundredsperSecond/data-science-portfolio/tree/master/steel_temperature_prediction)
 - [Определение наиболее выгодного региона нефтедобычи](https://github.com/ThreeHundredsperSecond/data-science-portfolio/tree/master/oil_region_with_highest_profit)
 - [Обработка фотографий покупателей](https://github.com/ThreeHundredsperSecond/data-science-portfolio/tree/master/oil_region_with_highest_profit)
+- [Больше проектов здесь](https://github.com/ThreeHundredsperSecond/data-science-portfolio)
 
+## Сертификаты и дипломы:
 <!--
 **ThreeHundredsperSecond/ThreeHundredsperSecond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
