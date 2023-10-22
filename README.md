@@ -23,7 +23,7 @@
 ## Сертификаты и дипломы 🎓
 - [Yandex Practicum](https://github.com/ThreeHundredsperSecond/images/blob/main/Vladislav%20Chumachenko_20232DS00675.pdf)
 - [Mathematical Methods in Psychology](https://github.com/ThreeHundredsperSecond/images/blob/main/Coursera%2093H4TPACUZGA.pdf)
-- [2 Хакатон от компании “Лента”](https://github.com/ThreeHundredsperSecond/images/blob/main/42.png)
+- [2-е место Хакатон от компании “Лента”](https://github.com/ThreeHundredsperSecond/images/blob/main/42.png)
 <!--
 **ThreeHundredsperSecond/ThreeHundredsperSecond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
