@@ -9,11 +9,12 @@
 - **Визуализация данных**
 
 ## Инструменты 🛠️
-- **Библиотеки Python для анализа данных**: Pandas, NumPy, Scikit-learn
+- **Библиотеки Python для анализа данных**: Pandas, NumPy, SciPy, Scikit-learn
 - **Библиотеки Python для визуализации данных**: Matplotlib, Seaborn, Ploty
-- **Библиотеки Python для машинного обучения**: Scikit-learn, Catboost, TensorFlow 
+- **Библиотеки Python для машинного обучения**: Scikit-learn, Catboost, TensorFlow, Keras, NLTK 
 
 ## Выполненные проекты 📚
+- [Хакатон Яндекс Музыка](https://github.com/ThreeHundredsperSecond/Yandex_Music)
 - [Хакатон от компании “Лента”](https://github.com/ThreeHundredsperSecond/Lenta_Hackathon/blob/main/README.md)
 - [Прогноз температуры стали во время плавки](https://github.com/ThreeHundredsperSecond/data-science-portfolio/tree/master/steel_temperature_prediction)
 - [Определение наиболее выгодного региона нефтедобычи](https://github.com/ThreeHundredsperSecond/data-science-portfolio/tree/master/oil_region_with_highest_profit)
