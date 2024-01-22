@@ -16,12 +16,13 @@
 ## Выполненные проекты 📚
 - [Хакатон Яндекс Музыка](https://github.com/ThreeHundredsperSecond/Yandex_Music)
 - [Хакатон от компании “Лента”](https://github.com/ThreeHundredsperSecond/Lenta_Hackathon/blob/main/README.md)
-- [Прогноз температуры стали во время плавки](https://github.com/ThreeHundredsperSecond/data-science-portfolio/tree/master/steel_temperature_prediction)
+- [Сопоставление Геоназваний(SQL)](https://github.com/ThreeHundredsperSecond/SQL_GeoName)
 - [Определение наиболее выгодного региона нефтедобычи](https://github.com/ThreeHundredsperSecond/data-science-portfolio/tree/master/oil_region_with_highest_profit)
 - [Обработка фотографий покупателей](https://github.com/ThreeHundredsperSecond/data-science-portfolio/tree/master/oil_region_with_highest_profit)
 - [Больше проектов можно найти здесь](https://github.com/ThreeHundredsperSecond/data-science-portfolio)
 
 ## Сертификаты и дипломы 🎓
+- [Mathematics for Data Analysis and Data Science](https://github.com/ThreeHundredsperSecond/images/blob/main/Vladislav%20Chumachenko_20242MDA00003.pdf)
 - [Yandex Practicum](https://github.com/ThreeHundredsperSecond/images/blob/main/Vladislav%20Chumachenko_20232DS00675.pdf)
 - [Mathematical Methods in Psychology](https://github.com/ThreeHundredsperSecond/images/blob/main/Coursera%2093H4TPACUZGA.pdf)
 - [2-е место Хакатон от компании “Лента”](https://github.com/ThreeHundredsperSecond/images/blob/main/42.png)
